@@ -1,4 +1,3 @@
-/* General Styles */
 body,
 html {
   margin: 0;
@@ -6,10 +5,9 @@ html {
   font-family: Arial, sans-serif;
 }
 
-/* Banner Styles */
 .banner {
-  max-width: 1020px; 
-  width: 100%; 
+  max-width: 1020px;
+  width: 100%;
   height: 90px;
   display: flex;
   align-items: center;
@@ -22,7 +20,6 @@ html {
   border-radius: 5px;
 }
 
-/* Background Animation */
 @keyframes colorCycle {
   0% {
     background-position: 0% 50%;
@@ -35,7 +32,6 @@ html {
   }
 }
 
-/* Video Button */
 .video-btn {
   padding: 10px 20px;
   background-color: #fff;
@@ -51,7 +47,6 @@ html {
   background-color: #ddd;
 }
 
-/* Video Overlay */
 .overlay {
   position: fixed;
   top: 0;
@@ -64,14 +59,12 @@ html {
   justify-content: center;
 }
 
-/* Overlay Content */
 .overlay-content {
   position: relative;
   width: 80%;
   max-width: 600px;
 }
 
-/* Close Button */
 .close-btn {
   position: absolute;
   top: -10px;
@@ -86,13 +79,11 @@ html {
   height: 30px;
 }
 
-/* Video */
 video {
   width: 100%;
   border-radius: 5px;
 }
 
-/* Responsive Design */
 @media (max-width: 768px) {
   .banner {
     width: 100%;
