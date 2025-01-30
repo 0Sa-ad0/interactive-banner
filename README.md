@@ -8,13 +8,7 @@ This project is a **responsive rich media banner ad** (728x90px) built with **HT
 - 📱 **Responsive Design:** Works well on mobile devices.
 
 ## Live Demo
-[View the live demo here](#) *(Replace `#` with your live demo link if hosted)*
-
-## Screenshots
-### Banner
-*(Example Screenshot of Banner Here)*
-### Video Overlay
-*(Example Screenshot of Video Overlay Here)*
+[View the live demo here](https://0sa-ad0.github.io/interactive-banner/) 
 
 ## Features
 - **Animated Background** – Changes color smoothly using CSS animations.
@@ -26,6 +20,6 @@ This project is a **responsive rich media banner ad** (728x90px) built with **HT
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/interactive-banner.git
+git clone https://github.com/0Sa-ad0/interactive-banner.git
 cd interactive-banner
 ```
