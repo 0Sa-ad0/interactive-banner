@@ -9,6 +9,7 @@ This project is a **responsive rich media banner ad** (728x90px) built with **HT
 
 ## Live Demo
 [View the live demo here](https://0sa-ad0.github.io/interactive-banner/) 
+OPEN IT IN MOBILE FOR BEST VIEW
 
 ## Features
 - **Animated Background** – Changes color smoothly using CSS animations.
